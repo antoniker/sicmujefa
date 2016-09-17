@@ -1,0 +1,6 @@
+DevExpress.Web.ASPxPanel.ASPxPanel, DevExpress.Web.v14.1, Version=14.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Web.ASPxTabControl.ASPxPageControl, DevExpress.Web.v14.1, Version=14.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Web.ASPxEditors.ASPxButton, DevExpress.Web.v14.1, Version=14.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Web.ASPxEditors.ASPxTextBox, DevExpress.Web.v14.1, Version=14.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+DevExpress.Web.ASPxEditors.ASPxCalendar, DevExpress.Web.v14.1, Version=14.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+Telerik.Web.UI.RadCalendar, Telerik.Web.UI, Version=2015.2.826.45, Culture=neutral, PublicKeyToken=121fae78165ba3d4

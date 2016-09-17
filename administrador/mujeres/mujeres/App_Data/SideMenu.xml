@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu>
+  <group Text="Administrador" >
+    <item Text="Dictaminación" NavigateUrl="~/Dictaminador.aspx"  />
+    <item Text="Bajas o cambios" NavigateUrl="~/Bajas.aspx" />
+    
+  </group>
+  <group Text="Actividades">
+    <item Text="Registro actividades" NavigateUrl="~/Actividades.aspx"  />
+    <item Text="Registro capacitaciones" NavigateUrl="~/Capacitaciones.aspx" />
+    <item Text="Registro asistencia" NavigateUrl="~/Asistencias.aspx"  />
+    <item Text="Evidencias" NavigateUrl="~/Evidencias.aspx" />
+  </group>
+  <group Text="Reportes">
+       <item Text="Estadísticos" NavigateUrl="~/Estadistica.aspx"  />
+   </group>
+
+</menu>

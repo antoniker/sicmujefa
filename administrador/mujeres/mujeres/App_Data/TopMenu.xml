@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item Text="Inicio" NavigateUrl="#" />
+
+  <item Text="Principal" NavigateUrl="~/muestra/Default.aspx"  />
+</items>
